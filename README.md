@@ -1,7 +1,7 @@
 # Olá, Meu nome é _**Letícia Viana**_ 🛫:electron:🖥️🎯
 <br>
 
-Bem-vindo ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de dados/Data Science, Python e banco de dado, e aqui você encontrará uma variedade de projetos que refletem minha jornada e aprendizado nesse campo incrível.
+Bem-vinda(o) ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de dados/Data Science, Python e banco de dados, e aqui você encontrará uma variedade de projetos que refletem minha jornada e aprendizado nesse campo incrível.
 <br><br>
 
 ## Sobre Mim :shipit:
@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de dado
 - Tecnologias = ['HTML' , 'CSS' , 'Bootstrap' ]
 - Ferramentas = [ 'Jupyter']
 
-## Como Entrar em Contato 📬
+## Como Entrar em Contato 📱
 
 - [Meu LinkedIn](https://www.linkedin.com/in/leticia-gomes-2372571a8/) 🌐: Vamos nos conectar
 - E-mail 📧: Let.rainvp@gmail.com
