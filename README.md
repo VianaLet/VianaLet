@@ -1,14 +1,14 @@
-# Olá, Meu nome é _**Letícia Viana**_ 🛫🖥️🎯
+# Olá, Meu nome é _**Letícia Viana**_ 🛫:electron:🖥️🎯
 <br>
 
 Bem-vindo ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de dados/Data Science, Python e banco de dado, e aqui você encontrará uma variedade de projetos que refletem minha jornada e aprendizado nesse campo incrível.
 <br><br>
 
-## Sobre Mim
+## Sobre Mim :shipit:
 
 - 🔭 Atualmente trabalhando em um projeto pessoal [Análise Econômica e Estatística 💸📊](https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md)
 - 🌱 Aprendendo constantemente sobre Linguagens de Programação, Frameworks e Economia
-- 👯 Estou aberto a colaborações e feedback
+- 👯 Estou aberta a colaborações e feedback
 - 💬 Pergunte-me sobre qualquer coisa e iremos ter uma conversa bem agradável
 <br><br>
 
