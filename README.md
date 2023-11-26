@@ -25,8 +25,9 @@ Bem-vinda(o) ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de d
 
 ## Como Entrar em Contato 📱
 
-- [Meu LinkedIn](https://www.linkedin.com/in/leticia-gomes-2372571a8/) 🌐: Vamos nos conectar
-- E-mail 📧: Let.rainvp@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-gomes-2372571a8/) 
+
+E-mail 📧: Let.rainvp@gmail.com
 
 ## Estatísticas do GitHub
 
