@@ -4,6 +4,8 @@
 Bem-vinda(o) ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de dados/Data Science, Python e banco de dados, e aqui você encontrará uma variedade de projetos que refletem minha jornada e aprendizado nesse campo incrível.
 <br><br>
 
+----
+
 ## Sobre Mim :shipit:
 
 - 🔭 Atualmente trabalhando em um projeto pessoal [Análise Econômica e Estatística 💸📊](https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md)
@@ -12,24 +14,36 @@ Bem-vinda(o) ao meu perfil do GitHub. Sou apaixonada por Economia, Análise de d
 - 💬 Pergunte-me sobre qualquer coisa e iremos ter uma conversa bem agradável
 <br><br>
 
+----
+
 ## Projetos Destacados 🌟
 
 1. [Análise Econômica e Estatística 💸📊](https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md):  Aqui, compartilho alguns scripts que desenvolvi para facilitar meu cotidiano como estudante de economia 📚📈 . Ao longo da minha jornada de aprendizado em Python, pretendo atualizar este repositório, aprimorando códigos e funções criados no início do projeto.
 2. [Senac Desenvolvedor Front-end](https://github.com/VianaLet/Senac-Desenvolvedor-Front): Neste repositório estou constantemente atualizando com novos projetos e aprendizados na área de front-end, mais especificamente por conta do curso profissionalizante do Senac.
 
+----
+
 ## Habilidades 💻
 
 - Linguagens de Programação = [ `Python`, `Javascript`]
-- Tecnologias = ['HTML' , 'CSS' , 'Bootstrap' ]
-- Ferramentas = [ 'Jupyter']
+  
+- Tecnologias = ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+
+----
 
 ## Como Entrar em Contato 📱
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-gomes-2372571a8/) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-gomes-2372571a8/) 
 
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width=112px height=30px/>](https://www.instagram.com/let.rain/)
 
-[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">](mailto:let.rainvp@gmai.com) 
+[<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com" width=112px height=30px>](mailto:let.rainvp@gmai.com) 
 
+----
 
 ## Estatísticas do GitHub
 <img
