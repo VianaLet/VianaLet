@@ -65,9 +65,10 @@
 
 ----
 
-## Estatísticas do GitHub
+<h2 align="center"> Estatísticas do GitHub </h2>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VianaLet&theme=transparent&bg_color=ffffff00&border_color=30A3DC&show_icons=true&icon_color=0579C3&title_color=00AEFF&text_color=417E87)
- ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VianaLet&bg_color=000&border_color=30A3DC&title_color=00AEFF&text_color=00AEFF)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VianaLet&layout=compact&&bg_color=000&border_color=30A3DC&title_color=00AEFF&text_color=00AEFF)
 
 <p align=center >Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato.</p>
 
