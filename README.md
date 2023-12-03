@@ -23,10 +23,11 @@
 
 ----
 
-## Projetos Destacados 🌟
+## Projetos 💙🌟
 
-1. [Análise Econômica e Estatística 💸📊](https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md):  Aqui, compartilho alguns scripts que desenvolvi para facilitar meu cotidiano como estudante de economia 📚📈 . Ao longo da minha jornada de aprendizado em Python, pretendo atualizar este repositório, aprimorando códigos e funções criados no início do projeto.
-2. [Senac Desenvolvedor Front-end](https://github.com/VianaLet/Senac-Desenvolvedor-Front): Neste repositório estou constantemente atualizando com novos projetos e aprendizados na área de front-end, mais especificamente por conta do curso profissionalizante do Senac.
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VianaLet&repo=Python-Curso-em-v-deo&bg_color=000&border_color=0579C3&show_icons=true&icon_color=0579C3&title_color=00AEFF&text_color=FFF)](https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VianaLet&repo=Senac-Desenvolvedor-Front&bg_color=000&border_color=0579C3&show_icons=true&icon_color=0579C3&title_color=00AEFF&text_color=FFF)]([https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md](https://github.com/VianaLet/Senac-Desenvolvedor-Front))
+
 
 ----
 
