@@ -26,7 +26,7 @@
 ## Projetos 💙🌟
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VianaLet&repo=Python-Curso-em-v-deo&bg_color=000&border_color=0579C3&show_icons=true&icon_color=0579C3&title_color=00AEFF&text_color=FFF)](https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VianaLet&repo=Senac-Desenvolvedor-Front&bg_color=000&border_color=0579C3&show_icons=true&icon_color=0579C3&title_color=00AEFF&text_color=FFF)]([https://github.com/VianaLet/Python-Curso-em-v-deo/blob/main/README.md](https://github.com/VianaLet/Senac-Desenvolvedor-Front))
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VianaLet&repo=Senac-Desenvolvedor-Front&bg_color=000&border_color=0579C3&show_icons=true&icon_color=0579C3&title_color=00AEFF&text_color=FFF)](https://github.com/VianaLet/Senac-Desenvolvedor-Front#readme)
 
 
 ----
